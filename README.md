@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lcsakashrai
+- 👋 Hi, I’m Akash Rai (@lcsakashrai)
 - 👀 I’m interested in Full-Stack Application Development
 - 🌱 I’m currently learning new technology trends
 - 💞️ I’m looking to collaborate on suitable application development project
